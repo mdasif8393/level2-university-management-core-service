@@ -9,6 +9,31 @@
             "date": 1707311955380,
             "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-07-02-19-error.log",
             "hash": "3f1cbaae114f8487ba2d114342d68c29fb20a8d801ab9168c266a711e706a828"
+        },
+        {
+            "date": 1707367993234,
+            "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-08-02-10-error.log",
+            "hash": "a73594270e90bf8eb47adf8de45530e14ff161c0ec74b60efa8ece829b67ac80"
+        },
+        {
+            "date": 1707371126653,
+            "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-08-02-11-error.log",
+            "hash": "7aa5d4d9a62569481d2cd9a2297bbf1fe960cb7fb2bf027c16c5416e7d526365"
+        },
+        {
+            "date": 1707375252041,
+            "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-08-02-12-error.log",
+            "hash": "c08977c8567a20ca4c91a86bece8940246e5c730d86e2a0b025a90f8e1e85474"
+        },
+        {
+            "date": 1707375911188,
+            "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-08-02-13-error.log",
+            "hash": "a3b575ff3e5504456c7b9b116555086b74018add5c500129c7ebdbfb1001b786"
+        },
+        {
+            "date": 1707380975395,
+            "name": "C:\\Users\\USER\\Desktop\\level-2\\sql\\level2-university-management-core-service\\logs\\winston\\errors\\phu-2024-08-02-14-error.log",
+            "hash": "181e3cba5661623251c81f72f1877db2056eeb1a020799455809df5139cc4fb5"
         }
     ],
     "hashType": "sha256"
